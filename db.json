@@ -38,55 +38,5 @@
     "product_price": "1999",
     "product_gender": "1",
     "product_img1": "skull-wings-badge-zipper-bomber-jacket-men-s-badge-zipper-bomber-jackets-241823-1578291388.webp"
-  },
-  {
-    "product_id": "40",
-    "product_title": "silver pink fleece hoodie",
-    "product_category": "4",
-    "product_price": "1999",
-    "product_gender": "2",
-    "product_img1": "silver-pink-fleece-hoodies-women-s-plain-hoodies-aw19-235496-1588674801.webp"
-  },
-  {
-    "product_id": "41",
-    "product_title": "scarlet red half sleeve t-shirt women",
-    "product_category": "1",
-    "product_price": "399",
-    "product_gender": "2",
-    "product_img1": "scarlet-red-half-sleeve-t-shirt-women-s-half-sleeve-plain-t-shirt-241913-1583478012.webp"
-  },
-  {
-    "product_id": "42",
-    "product_title": "scarlet red half sleeve t-shirt men",
-    "product_category": "1",
-    "product_price": "399",
-    "product_gender": "1",
-    "product_img1": "scarlet-red-half-sleeve-t-shirt-men-s-plain-t-shirts-241900-1583739916.webp",
-    "product_img2": "scarlet-red-half-sleeve-t-shirt-men-s-plain-t-shirts-241900-1583739913.webp",
-    "product_img3": "scarlet-red-half-sleeve-t-shirt-men-s-plain-t-shirts-241900-1583739904.webp",
-    "product_size_s": "10",
-    "product_size_m": "10",
-    "product_size_l": "10",
-    "product_size_xl": "10",
-    "product_size_xxl": "10",
-    "product_keywords": "scarlet red half sleeve t-shirt men half sleeve plain t-shirt",
-    "product_description": "100% pure cotton"
-  },
-  {
-    "product_id": "43",
-    "product_title": "queens are born half sleeve t-shirt women",
-    "product_category": "1",
-    "product_price": "399",
-    "product_gender": "2",
-    "product_img1": "queens-are-born-half-sleeve-t-shirt-women-s-half-sleeve-printed-t-shirt-272262-1583216022.webp",
-    "product_img2": "queens-are-born-half-sleeve-t-shirt-women-s-half-sleeve-printed-t-shirt-272262-1583216020.webp",
-    "product_img3": "queens-are-born-half-sleeve-t-shirt-women-s-half-sleeve-printed-t-shirt-272262-1583216014.webp",
-    "product_size_s": "10",
-    "product_size_m": "10",
-    "product_size_l": "10",
-    "product_size_xl": "10",
-    "product_size_xxl": "1",
-    "product_keywords": "queens are born half sleeve t-shirt women half sleeve printed t-shirt",
-    "product_description": "100% pure cotton"
   }
 ]
